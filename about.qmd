@@ -1,0 +1,20 @@
+---
+title: "About Robert"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/RobertERitz
+    - icon: github
+      text: Github
+      href: https://github.com/Robert Ritz
+
+---
+
+I'm a data scientist, professor, and business creator based in Mongolia. Most of my success comes from my amazing wife, Bayaraa, and our son.
+
+Over the years I've done a lot of different things. What I have learned is that I love technology and I enjoy building things. I've failed at many things, but I keep learning and keep going.
+
+I write semi regularly on this site, and I welcome <a href="mailto:robertritz@outlook.com" class="text-blue-500 underline">email</a>.

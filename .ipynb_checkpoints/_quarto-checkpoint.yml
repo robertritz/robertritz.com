@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Robert Ritz"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/robertritz
+      - icon: twitter
+        href: https://twitter.com/RobertERitz
+      - icon: rss
+        href: index.xml
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+
+
